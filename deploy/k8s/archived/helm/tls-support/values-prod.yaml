@@ -1,0 +1,8 @@
+applicationName: farmizo
+issuerName: letsencrypt-prod
+certName: farmizo-cert-prod
+environment: prod
+server: https://acme-v02.api.letsencrypt.org/directory
+certSecretName: farmizo-letsencrypt-prod
+issuerSecretName: letsencrypt-prod
+ingressClass: addon-http-application-routing

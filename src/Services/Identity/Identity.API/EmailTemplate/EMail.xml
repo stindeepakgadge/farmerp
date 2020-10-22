@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<EMailFormats>
+  <AccountActivation>
+    <Subject>Farmizo - Account Activation</Subject>
+    <FileName>AccountActivation.htm</FileName>
+  </AccountActivation>
+  <ResetPassword>
+    <Subject>Farmizo - Reset Password</Subject>
+    <FileName>ResetPassword.htm</FileName>
+  </ResetPassword>
+</EMailFormats>

@@ -1,0 +1,462 @@
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\web.config
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\1.png
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\10.png
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\11.png
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\12.png
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\2.png
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\3.png
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\4.png
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\5.png
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\6.png
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\7.png
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\8.png
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\9.png
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\ff1.png
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\ff10.png
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\ff11.png
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\ff12.png
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\ff2.png
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\ff3.png
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\ff4.png
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\ff5.png
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\ff6.png
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\ff7.png
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\ff8.png
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\ff9.png
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Setup\CatalogBrands.csv
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Setup\CatalogItems.csv
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Setup\CatalogItems.zip
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Setup\CatalogTypes.csv
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Catalog.API.exe
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Catalog.API.deps.json
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Catalog.API.runtimeconfig.json
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Catalog.API.runtimeconfig.dev.json
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Catalog.API.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Catalog.API.pdb
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\HealthChecks.AzureServiceBus.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\HealthChecks.AzureStorage.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\HealthChecks.RabbitMQ.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\HealthChecks.SqlServer.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.Kubernetes.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.HealthChecks.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Azure.EventHubs.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.WebKey.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.AzureKeyVault.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.HealthChecks.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.AzureAppServices.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Polly.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Environment.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Http.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Seq.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\EventBus.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\EventBusRabbitMQ.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\EventBusServiceBus.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\IntegrationEventLogEF.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\EventBusRabbitMQ.pdb
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\EventBusServiceBus.pdb
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\EventBus.pdb
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\IntegrationEventLogEF.pdb
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.csprojAssemblyReference.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.AssemblyInfoInputs.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.AssemblyInfo.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.csproj.CoreCompileInputs.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.RazorTargetAssemblyInfo.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.csproj.CopyComplete
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\staticwebassets\Catalog.API.StaticWebAssets.Manifest.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\staticwebassets\Catalog.API.StaticWebAssets.xml
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.pdb
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.genruntimeconfig.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\web.config
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\1.png
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\10.png
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\11.png
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\12.png
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\2.png
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\3.png
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\4.png
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\5.png
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\6.png
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\7.png
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\8.png
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\9.png
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Setup\CatalogBrands.csv
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Setup\CatalogItems.csv
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Setup\CatalogItems.zip
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Setup\CatalogTypes.csv
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Catalog.API.exe
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Catalog.API.deps.json
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Catalog.API.runtimeconfig.json
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Catalog.API.runtimeconfig.dev.json
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Catalog.API.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Catalog.API.pdb
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\HealthChecks.AzureServiceBus.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\HealthChecks.AzureStorage.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\HealthChecks.RabbitMQ.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\HealthChecks.SqlServer.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.Kubernetes.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.HealthChecks.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Azure.EventHubs.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.WebKey.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.AzureKeyVault.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.HealthChecks.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.AzureAppServices.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Polly.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Environment.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Http.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Seq.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\EventBus.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\EventBusRabbitMQ.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\EventBusServiceBus.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\IntegrationEventLogEF.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\EventBusRabbitMQ.pdb
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\EventBusServiceBus.pdb
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\EventBus.pdb
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\IntegrationEventLogEF.pdb
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.csprojAssemblyReference.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.AssemblyInfoInputs.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.AssemblyInfo.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.csproj.CoreCompileInputs.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.RazorTargetAssemblyInfo.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.csproj.CopyComplete
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\staticwebassets\Catalog.API.StaticWebAssets.Manifest.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\staticwebassets\Catalog.API.StaticWebAssets.xml
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.pdb
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.genruntimeconfig.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\web.config
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\1.png
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\10.png
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\11.png
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\12.png
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\2.png
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\3.png
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\4.png
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\5.png
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\6.png
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\7.png
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\8.png
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Pics\9.png
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Setup\CatalogBrands.csv
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Setup\CatalogItems.csv
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Setup\CatalogItems.zip
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Setup\CatalogTypes.csv
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Catalog.API.exe
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Catalog.API.deps.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Catalog.API.runtimeconfig.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Catalog.API.runtimeconfig.dev.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Catalog.API.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Catalog.API.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\HealthChecks.AzureServiceBus.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\HealthChecks.AzureStorage.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\HealthChecks.RabbitMQ.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\HealthChecks.SqlServer.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.Kubernetes.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.HealthChecks.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Azure.EventHubs.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.WebKey.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.AzureKeyVault.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.HealthChecks.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.AzureAppServices.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Polly.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Environment.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Http.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Seq.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\Microsoft.WindowsAzure.Storage.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\EventBus.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\EventBusRabbitMQ.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\EventBusServiceBus.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\IntegrationEventLogEF.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\EventBusRabbitMQ.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\EventBusServiceBus.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\EventBus.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\bin\Debug\netcoreapp3.1\IntegrationEventLogEF.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.csprojAssemblyReference.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.AssemblyInfoInputs.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.AssemblyInfo.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.csproj.CoreCompileInputs.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.RazorTargetAssemblyInfo.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.csproj.CopyComplete
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\staticwebassets\Catalog.API.StaticWebAssets.Manifest.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\staticwebassets\Catalog.API.StaticWebAssets.xml
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API\obj\Debug\netcoreapp3.1\Catalog.API.genruntimeconfig.cache

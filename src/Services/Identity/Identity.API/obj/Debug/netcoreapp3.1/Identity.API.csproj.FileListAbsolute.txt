@@ -1,0 +1,472 @@
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\web.config
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\bundleconfig.json
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Setup\images.zip
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Setup\Users.csv
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Identity.API.exe
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Identity.API.deps.json
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Identity.API.runtimeconfig.json
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Identity.API.runtimeconfig.dev.json
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Identity.API.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Identity.API.pdb
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Identity.API.Views.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Identity.API.Views.pdb
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\HealthChecks.SqlServer.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\IdentityServer4.AspNetIdentity.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.Storage.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.Kubernetes.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.Redis.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.HealthChecks.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.WebKey.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.AzureKeyVault.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.HealthChecks.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.AzureAppServices.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Polly.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Environment.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Http.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Seq.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\StackExchange.Redis.StrongName.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.csprojAssemblyReference.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.AssemblyInfoInputs.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.AssemblyInfo.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.csproj.CoreCompileInputs.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.RazorAssemblyInfo.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.RazorAssemblyInfo.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.TagHelpers.input.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.TagHelpers.output.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.RazorCoreGenerate.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Account\LoggedOut.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Account\Logout.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Account\Redirecting.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Consent\Index.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Consent\_ScopeListItem.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationSummary.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.RazorTargetAssemblyInfo.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.RazorTargetAssemblyInfo.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.Views.pdb
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.csproj.CopyComplete
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\staticwebassets\Identity.API.StaticWebAssets.Manifest.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\staticwebassets\Identity.API.StaticWebAssets.xml
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.pdb
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.genruntimeconfig.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\web.config
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\bundleconfig.json
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\libman.json
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Setup\images.zip
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Setup\Users.csv
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Identity.API.exe
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Identity.API.deps.json
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Identity.API.runtimeconfig.json
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Identity.API.runtimeconfig.dev.json
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Identity.API.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Identity.API.pdb
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Identity.API.Views.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Identity.API.Views.pdb
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\HealthChecks.SqlServer.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\IdentityModel.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\IdentityServer4.AspNetIdentity.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.Storage.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.Kubernetes.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.Redis.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.HealthChecks.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.WebKey.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.AzureKeyVault.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.HealthChecks.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.AzureAppServices.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Polly.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Environment.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Http.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Seq.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\StackExchange.Redis.StrongName.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.csprojAssemblyReference.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.AssemblyInfoInputs.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.AssemblyInfo.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.csproj.CoreCompileInputs.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.RazorAssemblyInfo.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.RazorAssemblyInfo.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.TagHelpers.input.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.TagHelpers.output.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.RazorCoreGenerate.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Account\LoggedOut.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Account\Logout.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Account\Redirecting.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Consent\Index.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Consent\_ScopeListItem.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationSummary.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.RazorTargetAssemblyInfo.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.RazorTargetAssemblyInfo.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.Views.pdb
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.csproj.CopyComplete
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\staticwebassets\Identity.API.StaticWebAssets.Manifest.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\staticwebassets\Identity.API.StaticWebAssets.xml
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.pdb
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.genruntimeconfig.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\web.config
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\bundleconfig.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\libman.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Setup\images.zip
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Setup\Users.csv
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Identity.API.exe
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Identity.API.deps.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Identity.API.runtimeconfig.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Identity.API.runtimeconfig.dev.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Identity.API.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Identity.API.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Identity.API.Views.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Identity.API.Views.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\HealthChecks.SqlServer.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Autofac.Extensions.DependencyInjection.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\IdentityModel.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\IdentityServer4.AspNetIdentity.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\IdentityServer4.EntityFramework.Storage.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.Kubernetes.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.Redis.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.HealthChecks.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Azure.KeyVault.WebKey.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.AzureKeyVault.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.HealthChecks.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.AzureAppServices.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Polly.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Environment.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Http.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.Seq.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\StackExchange.Redis.StrongName.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.csprojAssemblyReference.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.AssemblyInfoInputs.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.AssemblyInfo.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.csproj.CoreCompileInputs.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.MvcApplicationPartsAssemblyInfo.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.RazorAssemblyInfo.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.RazorAssemblyInfo.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.TagHelpers.input.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.TagHelpers.output.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.RazorCoreGenerate.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmailFailed.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPassword.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgotPasswordConfirmation.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Account\LoggedOut.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Account\Logout.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Account\Redirecting.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Account\RegistrationSuccess.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResendEmailVerificationLink.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPasswordConfirmation.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Account\Verify.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Account\VerifyEmail.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Consent\Index.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Consent\_ScopeListItem.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationSummary.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.RazorTargetAssemblyInfo.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.RazorTargetAssemblyInfo.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.Views.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.csproj.CopyComplete
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\staticwebassets\Identity.API.StaticWebAssets.Manifest.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\staticwebassets\Identity.API.StaticWebAssets.xml
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API\obj\Debug\netcoreapp3.1\Identity.API.genruntimeconfig.cache

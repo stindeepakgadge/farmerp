@@ -1,0 +1,36 @@
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.1\IntegrationEventLogEF.deps.json
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.1\IntegrationEventLogEF.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.1\IntegrationEventLogEF.pdb
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.1\EventBus.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.1\EventBus.pdb
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.1\IntegrationEventLogEF.csprojAssemblyReference.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.1\IntegrationEventLogEF.AssemblyInfoInputs.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.1\IntegrationEventLogEF.AssemblyInfo.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.1\IntegrationEventLogEF.csproj.CoreCompileInputs.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.1\IntegrationEventLogEF.csproj.CopyComplete
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.1\IntegrationEventLogEF.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.1\IntegrationEventLogEF.pdb
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.1\IntegrationEventLogEF.deps.json
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.1\IntegrationEventLogEF.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.1\IntegrationEventLogEF.pdb
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.1\EventBus.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.1\EventBus.pdb
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.1\IntegrationEventLogEF.csprojAssemblyReference.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.1\IntegrationEventLogEF.AssemblyInfoInputs.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.1\IntegrationEventLogEF.AssemblyInfo.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.1\IntegrationEventLogEF.csproj.CoreCompileInputs.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.1\IntegrationEventLogEF.csproj.CopyComplete
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.1\IntegrationEventLogEF.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.1\IntegrationEventLogEF.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.1\IntegrationEventLogEF.deps.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.1\IntegrationEventLogEF.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.1\IntegrationEventLogEF.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.1\EventBus.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Debug\netstandard2.1\EventBus.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.1\IntegrationEventLogEF.csprojAssemblyReference.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.1\IntegrationEventLogEF.AssemblyInfoInputs.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.1\IntegrationEventLogEF.AssemblyInfo.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.1\IntegrationEventLogEF.csproj.CoreCompileInputs.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.1\IntegrationEventLogEF.csproj.CopyComplete
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.1\IntegrationEventLogEF.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Debug\netstandard2.1\IntegrationEventLogEF.pdb

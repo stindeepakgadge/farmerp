@@ -1,0 +1,12 @@
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Release\netstandard2.1\EventBusServiceBus.deps.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Release\netstandard2.1\EventBusServiceBus.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Release\netstandard2.1\EventBusServiceBus.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Release\netstandard2.1\EventBus.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Release\netstandard2.1\EventBus.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Release\netstandard2.1\EventBusServiceBus.csprojAssemblyReference.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Release\netstandard2.1\EventBusServiceBus.AssemblyInfoInputs.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Release\netstandard2.1\EventBusServiceBus.AssemblyInfo.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Release\netstandard2.1\EventBusServiceBus.csproj.CoreCompileInputs.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Release\netstandard2.1\EventBusServiceBus.csproj.CopyComplete
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Release\netstandard2.1\EventBusServiceBus.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Release\netstandard2.1\EventBusServiceBus.pdb

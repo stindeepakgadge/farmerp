@@ -1,0 +1,36 @@
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Debug\netstandard2.1\EventBusServiceBus.deps.json
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Debug\netstandard2.1\EventBusServiceBus.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Debug\netstandard2.1\EventBusServiceBus.pdb
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Debug\netstandard2.1\EventBus.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Debug\netstandard2.1\EventBus.pdb
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.1\EventBusServiceBus.csprojAssemblyReference.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.1\EventBusServiceBus.AssemblyInfoInputs.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.1\EventBusServiceBus.AssemblyInfo.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.1\EventBusServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.1\EventBusServiceBus.csproj.CopyComplete
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.1\EventBusServiceBus.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.1\EventBusServiceBus.pdb
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Debug\netstandard2.1\EventBusServiceBus.deps.json
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Debug\netstandard2.1\EventBusServiceBus.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Debug\netstandard2.1\EventBusServiceBus.pdb
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Debug\netstandard2.1\EventBus.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Debug\netstandard2.1\EventBus.pdb
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.1\EventBusServiceBus.csprojAssemblyReference.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.1\EventBusServiceBus.AssemblyInfoInputs.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.1\EventBusServiceBus.AssemblyInfo.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.1\EventBusServiceBus.csproj.CoreCompileInputs.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.1\EventBusServiceBus.csproj.CopyComplete
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.1\EventBusServiceBus.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.1\EventBusServiceBus.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Debug\netstandard2.1\EventBusServiceBus.deps.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Debug\netstandard2.1\EventBusServiceBus.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Debug\netstandard2.1\EventBusServiceBus.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Debug\netstandard2.1\EventBus.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusServiceBus\bin\Debug\netstandard2.1\EventBus.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.1\EventBusServiceBus.csprojAssemblyReference.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.1\EventBusServiceBus.AssemblyInfoInputs.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.1\EventBusServiceBus.AssemblyInfo.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.1\EventBusServiceBus.csproj.CoreCompileInputs.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.1\EventBusServiceBus.csproj.CopyComplete
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.1\EventBusServiceBus.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusServiceBus\obj\Debug\netstandard2.1\EventBusServiceBus.pdb

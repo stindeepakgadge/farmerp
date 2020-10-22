@@ -1,0 +1,378 @@
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\web.config
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\bundleconfig.json
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\compilerconfig.json
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Setup\images.zip
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Setup\override.css
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\WebMVC.exe
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\WebMVC.deps.json
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\WebMVC.runtimeconfig.json
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\WebMVC.runtimeconfig.dev.json
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\WebMVC.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\WebMVC.pdb
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\WebMVC.Views.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\WebMVC.Views.pdb
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\HealthChecks.Uris.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.Kubernetes.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.Redis.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.HealthChecks.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.Build.Framework.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.Build.Utilities.Core.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.HealthChecks.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.AzureAppServices.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Environment.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.Http.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.Seq.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\StackExchange.Redis.StrongName.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sni.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sni.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Devspaces.Support.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Devspaces.Support.pdb
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.csprojAssemblyReference.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.AssemblyInfoInputs.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.AssemblyInfo.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.csproj.CoreCompileInputs.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.RazorAssemblyInfo.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.RazorAssemblyInfo.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.TagHelpers.input.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.TagHelpers.output.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.RazorCoreGenerate.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Campaigns\Details.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Campaigns\Index.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Campaigns\_campaign.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Campaigns\_pagination.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Index.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\_pagination.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\_product.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\OrderManagement\Index.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Order\Create.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Order\Detail.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Order\_OrderItems.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartList\Default.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Cart\Default.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Header.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.RazorTargetAssemblyInfo.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.RazorTargetAssemblyInfo.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.Views.pdb
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.csproj.CopyComplete
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\staticwebassets\WebMVC.StaticWebAssets.Manifest.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\staticwebassets\WebMVC.StaticWebAssets.xml
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.pdb
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.genruntimeconfig.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\web.config
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\bundleconfig.json
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\compilerconfig.json
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\libman.json
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Setup\images.zip
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Setup\override.css
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\WebMVC.exe
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\WebMVC.deps.json
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\WebMVC.runtimeconfig.json
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\WebMVC.runtimeconfig.dev.json
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\WebMVC.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\WebMVC.pdb
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\WebMVC.Views.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\WebMVC.Views.pdb
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\HealthChecks.Uris.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.Kubernetes.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.Redis.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.HealthChecks.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.Build.Framework.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.Build.Utilities.Core.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.HealthChecks.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.AzureAppServices.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Environment.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.Http.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.Seq.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\StackExchange.Redis.StrongName.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sni.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sni.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Devspaces.Support.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Devspaces.Support.pdb
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.csprojAssemblyReference.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.AssemblyInfoInputs.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.AssemblyInfo.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.csproj.CoreCompileInputs.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.RazorAssemblyInfo.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.RazorAssemblyInfo.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.TagHelpers.input.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.TagHelpers.output.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.RazorCoreGenerate.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Campaigns\Details.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Campaigns\Index.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Campaigns\_campaign.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Campaigns\_pagination.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Index.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\_pagination.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\_product.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\OrderManagement\Index.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Order\Create.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Order\Detail.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Order\_OrderItems.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartList\Default.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Cart\Default.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Header.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.RazorTargetAssemblyInfo.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.RazorTargetAssemblyInfo.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.Views.pdb
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.csproj.CopyComplete
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\staticwebassets\WebMVC.StaticWebAssets.Manifest.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\staticwebassets\WebMVC.StaticWebAssets.xml
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.pdb
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.genruntimeconfig.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\web.config
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\bundleconfig.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\compilerconfig.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\libman.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Setup\images.zip
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Setup\override.css
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\WebMVC.exe
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\WebMVC.deps.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\WebMVC.runtimeconfig.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\WebMVC.runtimeconfig.dev.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\WebMVC.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\WebMVC.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\WebMVC.Views.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\WebMVC.Views.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\HealthChecks.UI.Client.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\HealthChecks.Uris.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.Kubernetes.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.DataProtection.Redis.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.HealthChecks.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.Build.Framework.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.Build.Utilities.Core.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.HealthChecks.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.AzureAppServices.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Microsoft.VisualBasic.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Enrichers.Environment.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.Http.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.PeriodicBatching.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Serilog.Sinks.Seq.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\StackExchange.Redis.StrongName.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\debian-x64\native\libuv.so
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\fedora-x64\native\libuv.so
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\opensuse-x64\native\libuv.so
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\osx\native\libuv.dylib
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\rhel-x64\native\libuv.so
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\win7-arm\native\libuv.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\libuv.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\libuv.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\win7-x64\native\sni.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\win7-x86\native\sni.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Devspaces.Support.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\bin\Debug\netcoreapp3.1\Devspaces.Support.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.csprojAssemblyReference.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.AssemblyInfoInputs.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.AssemblyInfo.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.csproj.CoreCompileInputs.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.RazorAssemblyInfo.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.RazorAssemblyInfo.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.TagHelpers.input.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.TagHelpers.output.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.RazorCoreGenerate.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Campaigns\Details.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Campaigns\Index.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Campaigns\_campaign.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Campaigns\_pagination.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\Index.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\_pagination.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Catalog\_product.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\OrderManagement\Index.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Order\Create.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Order\Detail.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Order\_OrderItems.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartList\Default.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Cart\Default.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Header.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.RazorTargetAssemblyInfo.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.RazorTargetAssemblyInfo.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.Views.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.csproj.CopyComplete
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\staticwebassets\WebMVC.StaticWebAssets.Manifest.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\staticwebassets\WebMVC.StaticWebAssets.xml
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC\obj\Debug\netcoreapp3.1\WebMVC.genruntimeconfig.cache

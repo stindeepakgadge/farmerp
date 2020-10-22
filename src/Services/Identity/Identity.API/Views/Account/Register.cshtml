@@ -1,0 +1,49 @@
+﻿@model Farmizo.Services.Identity.API.Models.AccountViewModels.RegisterViewModel
+@{
+    ViewData["Title"] = "Register";
+}
+<form asp-controller="Account" asp-action="Register" asp-route-returnurl="@ViewData["ReturnUrl"]" method="post" class="form-signin">
+    <div class="text-center mb-2 tag">
+        <img class="mb-4" src="~/images/farmizo-logo.png">
+        <p>Create Account</p>
+    </div>
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <div class="form-label-group">
+        <input type="text" autocomplete="off" class="form-control pl-0" asp-for="User.Name" placeholder="First Name"
+               required autofocus>
+        <label for="inputName" class="pl-0">First Name *</label>
+    </div>
+    <div class="form-label-group">
+        <input type="text" autocomplete="off" class="form-control pl-0" asp-for="User.LastName" placeholder="Last Name"
+               required>
+        <label for="inputLastName" class="pl-0">Last Name</label>
+    </div>
+    <div class="form-label-group">
+        <input type="text" autocomplete="off" class="form-control pl-0" asp-for="User.PhoneNumber" placeholder="Mobile Number"
+               required>
+        <label for="inputPhoneNumber" class="pl-0">Mobile Number *</label>
+    </div>
+    <div class="form-label-group">
+        <input type="text" autocomplete="off" class="form-control pl-0" asp-for="Email" placeholder="Email"
+               required autofocus>
+        <label for="inputEmail" class="pl-0">Email ID*</label>
+    </div>
+    <div class="form-label-group">
+        <input type="password" autocomplete="off" class="form-control pl-0" asp-for="Password" placeholder="Password"
+               required>
+        <label for="inputPassword" class="pl-0">Set Password *</label>
+    </div>
+    <div class="pt-4 pb-3">
+        <button class="btn btn-lg btn-success btn-block" type="submit" onclick="this.form.submit(); this.disabled = true; this.value = 'Processing...';">Register</button>
+    </div>
+    <div class="text-center mt-0 mb-1 note">
+        <p>Password sould be combination of character, number and sepcial character and length should be minimum 8 character.</p>
+    </div>
+    <p class="mt-2 mb-2 text-muted text-center">Already have an account? <a asp-area="" asp-controller="Account" asp-action="Login" asp-route-returnurl="@ViewData["ReturnUrl"]">Sign In</a></p>
+    <div class="tandc"><h6 class="mt-3 mb-1 text-muted text-center"><a href="#">Terms and Condition</a></h6></div>
+</form>
+
+@section Scripts {
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
+}
+

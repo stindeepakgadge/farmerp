@@ -1,0 +1,2 @@
+farmizo API Gateway for Mobile Shopping services installed
+--------------------------------------------------------

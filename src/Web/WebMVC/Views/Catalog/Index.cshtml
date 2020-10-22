@@ -1,0 +1,84 @@
+﻿@model Farmizo.WebMVC.ViewModels.CatalogViewModels.IndexViewModel
+
+@{
+    ViewData["Title"] = "Catalog";
+}
+
+<style type="text/css">
+
+    .hero__item {
+        height: 450px;
+        display: flex;
+        align-items: center;
+        padding-left: 75px;
+    }
+
+    .set-bg {
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: top center;
+    }
+</style>
+<div class="hero__item set-bg" style="background-image:url('../images/banner.jpg')">
+    <div class="hero__text">
+        <span>Farmizo Fresh</span>
+        <h2>Vegetable <br>100% Organic</h2>
+        <p>Free Pickup and Delivery Available</p>
+        <a href="#" class="primary-btn">SHOP NOW</a>
+    </div>
+</div>
+@*<section class="esh-catalog-hero">
+        <div class="container">
+            <img class="esh-catalog-title" src="~/images/main_banner_text.png" />
+        </div>
+    </section>*@
+@*
+    <section class="esh-catalog-filters">
+        <div class="container">
+            <form asp-action="Index" asp-controller="Catalog" method="post">
+                <label class="esh-catalog-label" data-title="brand">
+                    <select asp-for="@Model.BrandFilterApplied" asp-items="@Model.Brands" class="esh-catalog-filter"></select>
+                </label>
+                <label class="esh-catalog-label" data-title="type">
+                    <select asp-for="@Model.TypesFilterApplied" asp-items="@Model.Types" class="esh-catalog-filter"></select>
+                </label>
+                <input class="esh-catalog-send" type="image" src="~/images/arrow-right.svg" />
+            </form>
+        </div>
+    </section>
+
+    <div class="container">
+        <div class="row">
+            <br />
+            @if(ViewBag.BasketInoperativeMsg != null)
+            {
+            <div class="alert alert-warning" role="alert">
+                &nbsp;@ViewBag.BasketInoperativeMsg
+            </div>
+            }
+        </div>
+
+        @if (Model.CatalogItems.Count() > 0)
+        {
+        <partial name="_pagination" for="PaginationInfo" />
+
+        <div class="esh-catalog-items row">
+            @foreach (var catalogItem in Model.CatalogItems)
+                {
+            <div class="esh-catalog-item col-md-4">
+                <partial name="_product" model="catalogItem" />
+            </div>
+                }
+        </div>
+
+        <partial name="_pagination" for="PaginationInfo" />
+        }
+        else
+        {
+        <div class="esh-catalog-items row">
+            THERE ARE NO RESULTS THAT MATCH YOUR SEARCH
+        </div>
+        }
+    </div>
+
+*@

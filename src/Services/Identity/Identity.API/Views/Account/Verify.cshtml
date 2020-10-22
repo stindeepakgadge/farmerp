@@ -1,0 +1,32 @@
+﻿@model Farmizo.Services.Identity.API.Models.AccountViewModels.OTPDetails
+@{
+    ViewData["Title"] = "Verify";
+}
+<form asp-controller="Account" asp-action="Verify" asp-route-returnurl="@ViewData["ReturnUrl"]" method="post" class="form-signin">
+    <div class="text-center mb-4 tag">
+        <img src="~/images/farmizo-logo.png">
+    </div>
+    <div class="text-center mb-4 tag">
+        <img id="icon" class="mb-4" src="~/images/un-verified-ac.png">
+        <h4 class="mb-3 font-weight-normal">Enter a verification code</h4>
+        <p>A text message with verification code was just sent to @ViewBag.PhoneNumber </p>
+    </div>
+    @Html.HiddenFor(m => m.TempUserId)
+    <div class="text-center digit-group">
+        <input type="text" autocomplete="off" id="inputEmail" class="form-control pl-0" asp-for="Code" placeholder="OTP"
+               required>
+    </div>
+    <br />
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <div class="pt-4 pb-4">
+        <button id="btndone" class="btn btn-lg btn-success btn-block" type="submit" onclick="this.form.submit(); this.disabled = true; this.value = 'Processing...';">
+            Verify
+        </button>
+    </div>
+    <p class="mt-5 mb-3 text-muted text-center">© 2020-2021</p>
+</form>
+
+@section Scripts {
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
+}
+

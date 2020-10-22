@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5oJn7GG5TWQbKZ/Wuo4q0yMO5SzS5L8eIEUE6gN1cTgYtLWJXRbbd+BC2cv3CIMqvaGay2jEYiTzMYps9KaFMw==",
+  "success": true,
+  "projectFilePath": "D:\\Deepak Working Directory\\Farmizo_Cloud\\Farmizo\\src\\BuildingBlocks\\EventBus\\EventBus\\EventBus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\stindeepakgadge\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

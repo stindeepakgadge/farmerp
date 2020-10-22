@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Verify";
+}
+<form asp-controller="Account" asp-action="ResendEmailVerificationLink" asp-route-returnurl="@ViewData["ReturnUrl"]" asp-route-evid="@ViewData["evid"]" method="post" class="form-signin">
+    <div class="text-center mb-4 tag">
+        <img src="~/images/farmizo-logo.png">
+    </div>
+    <div class="text-center mb-4 tag">
+        <img id="icon" class="mb-4" src="~/images/un-verified-ac.png">
+        <h5 class="mb-3 font-weight-normal">Please Verify your Email</h5>
+    </div>
+    <div class="text-center mt-0 mb-1 note">
+        <p>If you have not received an Email verification link, Kindly click on below [Resend Email] button.</p>
+    </div>
+    <div class="pt-4 pb-4">
+        <button id="btndone" class="btn btn-lg btn-secondary btn-block" type="submit" onclick="this.form.submit(); this.disabled = true; this.value = 'Processing...';">RESEND EMAIL</button>
+    </div>
+    <p class="mt-5 mb-3 text-muted text-center">© 2020-2021</p>
+
+</form>
+
+@section Scripts {
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
+}
+

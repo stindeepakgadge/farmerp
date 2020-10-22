@@ -1,0 +1,27 @@
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\Devspaces.Support\bin\Debug\netstandard2.0\Devspaces.Support.deps.json
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\Devspaces.Support\bin\Debug\netstandard2.0\Devspaces.Support.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\Devspaces.Support\bin\Debug\netstandard2.0\Devspaces.Support.pdb
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\Devspaces.Support\obj\Debug\netstandard2.0\Devspaces.Support.csprojAssemblyReference.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\Devspaces.Support\obj\Debug\netstandard2.0\Devspaces.Support.AssemblyInfoInputs.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\Devspaces.Support\obj\Debug\netstandard2.0\Devspaces.Support.AssemblyInfo.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\Devspaces.Support\obj\Debug\netstandard2.0\Devspaces.Support.csproj.CoreCompileInputs.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\Devspaces.Support\obj\Debug\netstandard2.0\Devspaces.Support.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\Devspaces.Support\obj\Debug\netstandard2.0\Devspaces.Support.pdb
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\Devspaces.Support\bin\Debug\netstandard2.0\Devspaces.Support.deps.json
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\Devspaces.Support\bin\Debug\netstandard2.0\Devspaces.Support.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\Devspaces.Support\bin\Debug\netstandard2.0\Devspaces.Support.pdb
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\Devspaces.Support\obj\Debug\netstandard2.0\Devspaces.Support.csprojAssemblyReference.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\Devspaces.Support\obj\Debug\netstandard2.0\Devspaces.Support.AssemblyInfoInputs.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\Devspaces.Support\obj\Debug\netstandard2.0\Devspaces.Support.AssemblyInfo.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\Devspaces.Support\obj\Debug\netstandard2.0\Devspaces.Support.csproj.CoreCompileInputs.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\Devspaces.Support\obj\Debug\netstandard2.0\Devspaces.Support.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\Devspaces.Support\obj\Debug\netstandard2.0\Devspaces.Support.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\Devspaces.Support\bin\Debug\netstandard2.0\Devspaces.Support.deps.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\Devspaces.Support\bin\Debug\netstandard2.0\Devspaces.Support.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\Devspaces.Support\bin\Debug\netstandard2.0\Devspaces.Support.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\Devspaces.Support\obj\Debug\netstandard2.0\Devspaces.Support.csprojAssemblyReference.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\Devspaces.Support\obj\Debug\netstandard2.0\Devspaces.Support.AssemblyInfoInputs.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\Devspaces.Support\obj\Debug\netstandard2.0\Devspaces.Support.AssemblyInfo.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\Devspaces.Support\obj\Debug\netstandard2.0\Devspaces.Support.csproj.CoreCompileInputs.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\Devspaces.Support\obj\Debug\netstandard2.0\Devspaces.Support.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\Devspaces.Support\obj\Debug\netstandard2.0\Devspaces.Support.pdb

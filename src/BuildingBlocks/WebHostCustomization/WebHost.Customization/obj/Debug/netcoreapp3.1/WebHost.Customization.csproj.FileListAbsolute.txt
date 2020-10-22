@@ -1,0 +1,36 @@
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\bin\Debug\netcoreapp3.1\WebHost.Customization.deps.json
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\bin\Debug\netcoreapp3.1\WebHost.Customization.runtimeconfig.json
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\bin\Debug\netcoreapp3.1\WebHost.Customization.runtimeconfig.dev.json
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\bin\Debug\netcoreapp3.1\WebHost.Customization.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\bin\Debug\netcoreapp3.1\WebHost.Customization.pdb
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\netcoreapp3.1\WebHost.Customization.csprojAssemblyReference.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\netcoreapp3.1\WebHost.Customization.AssemblyInfoInputs.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\netcoreapp3.1\WebHost.Customization.AssemblyInfo.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\netcoreapp3.1\WebHost.Customization.csproj.CoreCompileInputs.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\netcoreapp3.1\WebHost.Customization.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\netcoreapp3.1\WebHost.Customization.pdb
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\netcoreapp3.1\WebHost.Customization.genruntimeconfig.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\bin\Debug\netcoreapp3.1\WebHost.Customization.deps.json
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\bin\Debug\netcoreapp3.1\WebHost.Customization.runtimeconfig.json
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\bin\Debug\netcoreapp3.1\WebHost.Customization.runtimeconfig.dev.json
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\bin\Debug\netcoreapp3.1\WebHost.Customization.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\bin\Debug\netcoreapp3.1\WebHost.Customization.pdb
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\netcoreapp3.1\WebHost.Customization.csprojAssemblyReference.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\netcoreapp3.1\WebHost.Customization.AssemblyInfoInputs.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\netcoreapp3.1\WebHost.Customization.AssemblyInfo.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\netcoreapp3.1\WebHost.Customization.csproj.CoreCompileInputs.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\netcoreapp3.1\WebHost.Customization.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\netcoreapp3.1\WebHost.Customization.pdb
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\netcoreapp3.1\WebHost.Customization.genruntimeconfig.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\bin\Debug\netcoreapp3.1\WebHost.Customization.deps.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\bin\Debug\netcoreapp3.1\WebHost.Customization.runtimeconfig.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\bin\Debug\netcoreapp3.1\WebHost.Customization.runtimeconfig.dev.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\bin\Debug\netcoreapp3.1\WebHost.Customization.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\bin\Debug\netcoreapp3.1\WebHost.Customization.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\netcoreapp3.1\WebHost.Customization.csprojAssemblyReference.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\netcoreapp3.1\WebHost.Customization.AssemblyInfoInputs.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\netcoreapp3.1\WebHost.Customization.AssemblyInfo.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\netcoreapp3.1\WebHost.Customization.csproj.CoreCompileInputs.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\netcoreapp3.1\WebHost.Customization.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\netcoreapp3.1\WebHost.Customization.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Debug\netcoreapp3.1\WebHost.Customization.genruntimeconfig.cache

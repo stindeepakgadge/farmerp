@@ -1,0 +1,12 @@
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\bin\Release\netcoreapp3.1\WebHost.Customization.deps.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\bin\Release\netcoreapp3.1\WebHost.Customization.runtimeconfig.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\bin\Release\netcoreapp3.1\WebHost.Customization.runtimeconfig.dev.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\bin\Release\netcoreapp3.1\WebHost.Customization.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\bin\Release\netcoreapp3.1\WebHost.Customization.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Release\netcoreapp3.1\WebHost.Customization.csprojAssemblyReference.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Release\netcoreapp3.1\WebHost.Customization.AssemblyInfoInputs.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Release\netcoreapp3.1\WebHost.Customization.AssemblyInfo.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Release\netcoreapp3.1\WebHost.Customization.csproj.CoreCompileInputs.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Release\netcoreapp3.1\WebHost.Customization.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Release\netcoreapp3.1\WebHost.Customization.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\WebHostCustomization\WebHost.Customization\obj\Release\netcoreapp3.1\WebHost.Customization.genruntimeconfig.cache

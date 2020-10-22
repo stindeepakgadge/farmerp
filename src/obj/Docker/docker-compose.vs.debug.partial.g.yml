@@ -1,0 +1,197 @@
+version: '3.4'
+
+services:
+  catalog-api:
+    image: farmizo/catalog.api:dev
+    container_name: Catalog.API
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "Catalog.API"
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_catalog-api$
+    volumes:
+      - D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Catalog\Catalog.API:/app
+      - D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src:/src
+      - C:\Users\stindeepakgadge\vsdbg\vs2017u5:/remote_debugger:rw
+#$nuget_volume_mapping_catalog-api$
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_catalog-api$ \"/app/bin/Debug/netcoreapp3.1/Catalog.API.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
+    tty: true
+  identity-api:
+    image: farmizo/identity.api:dev
+    container_name: Identity.API
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "Identity.API"
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_identity-api$
+    volumes:
+      - D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Identity\Identity.API:/app
+      - D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src:/src
+      - C:\Users\stindeepakgadge\vsdbg\vs2017u5:/remote_debugger:rw
+#$nuget_volume_mapping_identity-api$
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_identity-api$ \"/app/bin/Debug/netcoreapp3.1/Identity.API.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
+    tty: true
+
+  webhooks-api:
+    image: farmizo/webhooks.api:dev
+    container_name: Webhooks.API
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "Webhooks.API"
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_webhooks-api$
+    volumes:
+      - D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Services\Webhooks\Webhooks.API:/app
+      - D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src:/src
+      - C:\Users\stindeepakgadge\vsdbg\vs2017u5:/remote_debugger:rw
+#$nuget_volume_mapping_webhooks-api$
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_webhooks-api$ \"/app/bin/Debug/netcoreapp3.1/Webhooks.API.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
+    tty: true
+
+  webhooks-client:
+    image: farmizo/webhooks.client:dev
+    container_name: WebhookClient
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "WebhookClient"
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_webhooks-client$
+    volumes:
+      - D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebhookClient:/app
+      - D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src:/src
+      - C:\Users\stindeepakgadge\vsdbg\vs2017u5:/remote_debugger:rw
+#$nuget_volume_mapping_webhooks-client$
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_webhooks-client$ \"/app/bin/Debug/netcoreapp3.1/WebhookClient.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
+    tty: true
+
+  webmvc:
+    image: farmizo/webmvc:dev
+    container_name: WebMVC
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "WebMVC"
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_webmvc$
+    volumes:
+      - D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebMVC:/app
+      - D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src:/src
+      - C:\Users\stindeepakgadge\vsdbg\vs2017u5:/remote_debugger:rw
+#$nuget_volume_mapping_webmvc$
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_webmvc$ \"/app/bin/Debug/netcoreapp3.1/WebMVC.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
+    tty: true
+
+  webshoppingagg:
+    image: farmizo/webshoppingagg:dev
+    container_name: Web.Shopping.HttpAggregator
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "Web.Shopping.HttpAggregator"
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_webshoppingagg$
+    volumes:
+      - D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\ApiGateways\Web.Bff.Shopping\aggregator\Web.Shopping.HttpAggregator:/app
+      - D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src:/src
+      - C:\Users\stindeepakgadge\vsdbg\vs2017u5:/remote_debugger:rw
+#$nuget_volume_mapping_webshoppingagg$
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_webshoppingagg$ \"/app/bin/Debug/netcoreapp3.1/Web.Shopping.HttpAggregator.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
+    tty: true
+
+  webstatus:
+    image: farmizo/webstatus:dev
+    container_name: WebStatus
+    build:
+      target: base
+      labels:
+        com.microsoft.created-by: "visual-studio"
+        com.microsoft.visual-studio.project-name: "WebStatus"
+    environment:
+      - DOTNET_USE_POLLING_FILE_WATCHER=1
+      - ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS=true
+      #- NUGET_FALLBACK_PACKAGES=$container_paths_to_fallback_packages_webstatus$
+    volumes:
+      - D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\Web\WebStatus:/app
+      - D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src:/src
+      - C:\Users\stindeepakgadge\vsdbg\vs2017u5:/remote_debugger:rw
+#$nuget_volume_mapping_webstatus$
+      - ${APPDATA}/ASP.NET/Https:/root/.aspnet/https:ro
+      - ${APPDATA}/Microsoft/UserSecrets:/root/.microsoft/usersecrets:ro
+
+    entrypoint: tail -f /dev/null
+    labels:
+      com.microsoft.visualstudio.debuggee.program: "dotnet"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_webstatus$ \"/app/bin/Debug/netcoreapp3.1/WebStatus.dll\""
+      com.microsoft.visualstudio.debuggee.workingdirectory: "/app"
+      com.microsoft.visualstudio.debuggee.killprogram: "/bin/sh -c \"if PID=$$(pidof dotnet); then kill $$PID; fi\""
+    tty: true

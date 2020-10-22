@@ -1,0 +1,43 @@
+﻿@model Farmizo.Services.Identity.API.Models.AccountViewModels.LoginViewModel
+
+
+@{
+    ViewData["Title"] = "Log in";
+}
+<form asp-controller="Account" asp-action="Login" asp-route-returnurl="@ViewData["ReturnUrl"]" method="post" class="form-signin">
+    <input type="hidden" asp-for="ReturnUrl" />
+    <div class="text-center mb-4 tag">
+        <img class="mb-4" src="~/images/farmizo-logo.png">
+        <h4 class="mb-3 font-weight-normal">Digital Agriculture Ecosystem</h4>
+        <p>Sign in with your Farmizo Account</p>
+    </div>
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <div class="form-label-group">
+        <input type="text" autocomplete="off" class="form-control pl-0" asp-for="UserName"
+               required autofocus>
+        <label class="pl-0" asp-for="UserName">Email or mobile phone number</label>
+    </div>
+
+    <div class="form-label-group">
+        <input type="password" autocomplete="off" id="inputPassword" class="form-control pl-0"
+               asp-for="Password" placeholder="Password" required>
+        <label for="inputPassword" asp-for="Password" class="pl-0">Password</label>
+    </div>
+
+    <div class="checkbox f-Pass mb-5">
+        <label>
+            <a asp-action="ForgotPassword" asp-route-returnurl="@ViewData["ReturnUrl"]">Forgot Password</a>
+        </label>
+    </div>
+    <div class="pt-4 pb-4">
+        <button class="btn btn-lg btn-success btn-block" type="submit">SIGN IN</button>
+    </div>
+    <div class="text-center mt-4 mb-4">
+        @*<p><a href="register.html">Create an account</a></p>*@
+        <p> <a asp-action="Register" asp-route-returnurl="@ViewData["ReturnUrl"]" class="text">Register as a new user?</a></p>
+    </div>
+    <p class="mt-5 mb-3 text-muted text-center">© 2020-2021</p>
+</form>
+@section Scripts {
+    @{ await Html.RenderPartialAsync("_ValidationScriptsPartial"); }
+}

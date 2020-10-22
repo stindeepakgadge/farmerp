@@ -1,0 +1,36 @@
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\netstandard2.1\EventBusRabbitMQ.deps.json
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\netstandard2.1\EventBusRabbitMQ.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\netstandard2.1\EventBusRabbitMQ.pdb
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\netstandard2.1\EventBus.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\netstandard2.1\EventBus.pdb
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.1\EventBusRabbitMQ.csprojAssemblyReference.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.1\EventBusRabbitMQ.AssemblyInfoInputs.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.1\EventBusRabbitMQ.AssemblyInfo.cs
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.1\EventBusRabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.1\EventBusRabbitMQ.csproj.CopyComplete
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.1\EventBusRabbitMQ.dll
+C:\Users\stindeepakg\source\repos\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.1\EventBusRabbitMQ.pdb
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\netstandard2.1\EventBusRabbitMQ.deps.json
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\netstandard2.1\EventBusRabbitMQ.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\netstandard2.1\EventBusRabbitMQ.pdb
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\netstandard2.1\EventBus.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\netstandard2.1\EventBus.pdb
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.1\EventBusRabbitMQ.csprojAssemblyReference.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.1\EventBusRabbitMQ.AssemblyInfoInputs.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.1\EventBusRabbitMQ.AssemblyInfo.cs
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.1\EventBusRabbitMQ.csproj.CoreCompileInputs.cache
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.1\EventBusRabbitMQ.csproj.CopyComplete
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.1\EventBusRabbitMQ.dll
+D:\Deepak Working Directory\Test Project\eShopOnContainers\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.1\EventBusRabbitMQ.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\netstandard2.1\EventBusRabbitMQ.deps.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\netstandard2.1\EventBusRabbitMQ.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\netstandard2.1\EventBusRabbitMQ.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\netstandard2.1\EventBus.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusRabbitMQ\bin\Debug\netstandard2.1\EventBus.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.1\EventBusRabbitMQ.csprojAssemblyReference.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.1\EventBusRabbitMQ.AssemblyInfoInputs.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.1\EventBusRabbitMQ.AssemblyInfo.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.1\EventBusRabbitMQ.csproj.CoreCompileInputs.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.1\EventBusRabbitMQ.csproj.CopyComplete
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.1\EventBusRabbitMQ.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\EventBusRabbitMQ\obj\Debug\netstandard2.1\EventBusRabbitMQ.pdb

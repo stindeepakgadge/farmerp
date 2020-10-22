@@ -1,0 +1,12 @@
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Release\netstandard2.1\IntegrationEventLogEF.deps.json
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Release\netstandard2.1\IntegrationEventLogEF.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Release\netstandard2.1\IntegrationEventLogEF.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Release\netstandard2.1\EventBus.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\IntegrationEventLogEF\bin\Release\netstandard2.1\EventBus.pdb
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Release\netstandard2.1\IntegrationEventLogEF.csprojAssemblyReference.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Release\netstandard2.1\IntegrationEventLogEF.AssemblyInfoInputs.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Release\netstandard2.1\IntegrationEventLogEF.AssemblyInfo.cs
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Release\netstandard2.1\IntegrationEventLogEF.csproj.CoreCompileInputs.cache
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Release\netstandard2.1\IntegrationEventLogEF.csproj.CopyComplete
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Release\netstandard2.1\IntegrationEventLogEF.dll
+D:\Deepak Working Directory\Farmizo_Cloud\Farmizo\src\BuildingBlocks\EventBus\IntegrationEventLogEF\obj\Release\netstandard2.1\IntegrationEventLogEF.pdb
